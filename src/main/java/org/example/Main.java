@@ -1,6 +1,7 @@
 package org.example;
+
 import com.github.lalyos.jfiglet.FigletFont;
-import java.io.File;
+
 import java.io.IOException;
 
 public class Main {
